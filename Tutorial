@@ -1,0 +1,7 @@
+No MatCode existem algumas regras para que o teu codigo funcione, sendo elas as seguintes:
+  -sempre que quiseres dar output de algo, deves escrever "=" seguido de "output";
+  -a ordem das operações consiste na ordem pela qual os blocos aparecem;
+  -o jogo esta limitado a 26 variaveis;
+  -o jogo apenas possi os numeros de 0 a 10 mas com um pouco de codigo e possivel obter todos os numeros (Dica: 10*x+y);
+  -o input e um numero inteiro;
+  -para se atribuir um valor a uma variavel deves escrever "=" seguido pela letra da variavel que escolheste;
