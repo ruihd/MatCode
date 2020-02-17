@@ -1,0 +1,3 @@
+Dado um ângulo a tal que |a| > 360, determine a amplitude resultante depois da rotação de uma reta a graus, apresentando o resultado entre 0 e 360 graus.
+Input: -874
+output: 206
