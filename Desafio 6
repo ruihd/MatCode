@@ -1,0 +1,6 @@
+Tenta somar um ponto (x,y) com um vetor(v1,v2)
+Input 1 (x): 2
+Input 2 (y): 58
+Input 3 (v1): -35
+Input 4 (v2): 6
+Output: -32 64
